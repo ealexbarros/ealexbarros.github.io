@@ -28,8 +28,8 @@ keywords: some, relevant, keywords, for, usage, in metatags
 links:
   facebook: username
   twitter: username
-  email: username@gmail.com
-  github: username
+  email: dossantosab@gmail.com
+  github: ealexbarros
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
