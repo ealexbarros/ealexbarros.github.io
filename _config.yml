@@ -1,12 +1,12 @@
 ##The website title
-name: Blog Name
+name: Alex Barros
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://example.com
+base_url: 
 sass:
   sass_dir: _sass
   style: :compressed
