@@ -9,13 +9,13 @@ categories:
 
 (ATENÇÃO, os comentários aqui não são recomendação ou sugestão de compra)
 
-* Comecei a montar a minha carteira de fundos imobiliário em 2018. Utilizei a "estratégia" de comprar 1 cota de um FII para "acompanhá-lo" e decidir se iria investir nele ou não. Não é uma estratégia muito "esperta", portanto precisei estudar minimamente o FII e após algum tempo "acompanhando" pude decidir se continuava ou não investindo nele.
+* Comecei a montar a minha carteira de fundos imobiliário em 2018. Utilizei a "estratégia" de comprar 1 cota de um FII para "acompanhá-lo" e decidir se iria investir nele ou não. Há um risco de realizar compras ruins, então é preciso estudar minimamente o FII antes da primeira compra e após algum tempo "acompanhando" decidir se continuava ou não investindo nele.
 
-* O correto é que você estude bastante os fundamentos de um fundo antes de comprar uma cota e continue estudando para decidir se deve mantê-lo ou não em carteira. Lembrando que ao vender uma cota de FII você deve pagar os impostos de ganho de capital em caso de lucro na venda. Enfim, vamos lá;
+* É recomendável que você estude bastante os fundamentos de um fundo antes de comprar uma cota e continue estudando para decidir se deve mantê-lo ou não em carteira. Lembrando que ao vender uma cota de FII você deve pagar os impostos de ganho de capital em caso de lucro na venda. Enfim, vamos lá;
 
 * ```Quantidade de FIIs em Carteira:``` 25!
 
-* ```Rendimento Médio Por mês:``` 0,7% livres de impostos.
+* ```Rendimento Médio Por mês:``` 0,71% livres de impostos.
 
 <div>
     <a href="https://plot.ly/~ealexbarros/1/?share_key=C2xWzpeukPxqW3Z5Uycxub" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/1.png?share_key=C2xWzpeukPxqW3Z5Uycxub" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -24,5 +24,5 @@ categories:
 
 * Meu planejamento é ajustar minha carteira de FIIs para ficar com cerca de 10 fundos diferentes. Analisando a rentabilidade que tiveram em 2018 e buscando manter o objetivo de rendimentos de 0,7% a.m e 8,4% a.a irei realizar novas compras para equilibrar a carteira.
 
-* Alguns fundos que comprei no inicio não pretendo aumentar participação, como o BBVJ11, BRCR11, BBRC11 e o JRDM11. Tiveram uma rentabilidade baixa ou possuem condições específicas que podem ser problemáticas. No futuro, espero que o gráfico acima fique mais concentrado em fundos de Shoppings, Logística e de Papeis.
+* Já decidi não pretendo aumentar participação em alguns dos fundos que comprei no inicio, como o BBVJ11, BRCR11, BBRC11 e o JRDM11. Tiveram uma rentabilidade bem ruim ou possuem alguns "problemas" que prefiro me manter distante. No futuro, espero que o gráfico acima fique mais concentrado em fundos de Shoppings, Logística e de Papeis.
 
