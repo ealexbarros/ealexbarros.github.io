@@ -11,7 +11,7 @@ categories:
 
 * Durante o mês de Janeiro fui ```"obrigado"``` a realizar algumas compras para ajustar minha posição em 2 FIIs, motivo: ``agrupamento de cotas``.
 
-### O que é o agrupamento de ações/cotas e qual a finalidade?
+### * O que é o agrupamento de ações/cotas e qual a finalidade?
 No mercado de renda variável, frequentemente ocorrem agrupamentos(inplit) ou desbobramentos(split) de ações. Os desdobramentos são geralmente utilizados para melhorar a liquidez de uma ação. Ações com valores de cotas muito altas são menos acessíveis para o pequeno investidor. 
 Já os agrupamentos são utilizados para reduzir a volatilidade de um ativo. Imagine que uma ação/FII custa R$4 reais. Ao subir 5 centavos a cotação teria variado 1,2%. Ao realizar um agrupamento de 1/10, variações de 5 centavos não impactariam muito a cotação, seria apenas 0,05%.
 
@@ -31,10 +31,12 @@ FIIs que comprei durante o mês de Janeiro/2019:
 ABCP11, CPTS11B, CTXT11, GGRC11, HGLG11, IRDM11, JSRE11, SPTW11;
 
 #### Posição em Fevereiro/2019:
+<div>
+    <a href="https://plot.ly/~ealexbarros/5/?share_key=1237EkPTYWo4xcYTivpex1" target="_blank" title="FIIs em 31JAN2019" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/5.png?share_key=1237EkPTYWo4xcYTivpex1" alt="FIIs em 31JAN2019" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="ealexbarros:5" sharekey-plotly="1237EkPTYWo4xcYTivpex1" src="https://plot.ly/embed.js" async></script>
+</div>
 
 
+* ```Quantidade de FIIs em Carteira:``` 25; Com objetivo de concentrar em 10 FIIs com peso de 10%;
 
-* ```Quantidade de FIIs em Carteira:``` 25!
-
-* ```Rendimento Médio Por mês:``` 0,7229% sobre o valor de mercado. (Não há incidência de IR)
-Ou seja, caso o valor de todas as cotas sejam 10mil, receberia de rendimentos o valor de R$72,29. ```Na poupança renderia somente R$ 37;```
+* ```Rendimento Médio Por mês:``` Aguardando todas as divulgações para calcular;
