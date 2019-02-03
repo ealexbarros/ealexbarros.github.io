@@ -22,7 +22,7 @@ Já os agrupamentos são utilizados para reduzir a volatilidade de um ativo. Ima
 
 #### Posição em Janeiro/2019:
 <div>
-    <a href="https://plot.ly/~ealexbarros/1/?share_key=C2xWzpeukPxqW3Z5Uycxub" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/1.png?share_key=C2xWzpeukPxqW3Z5Uycxub" alt="Plot 1" style="max-width: 80%;width: 400px;"  width="400" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~ealexbarros/1/?share_key=C2xWzpeukPxqW3Z5Uycxub" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/1.png?share_key=C2xWzpeukPxqW3Z5Uycxub" alt="Plot 1" style="max-width: 70%;width: 300px;"  width="300" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="ealexbarros:1" sharekey-plotly="C2xWzpeukPxqW3Z5Uycxub" src="https://plot.ly/embed.js" async></script>
 </div>
 
@@ -32,7 +32,7 @@ ABCP11, CPTS11B, CTXT11, GGRC11, HGLG11, IRDM11, JSRE11, SPTW11;
 
 #### Posição em Fevereiro/2019:
 <div>
-    <a href="https://plot.ly/~ealexbarros/5/?share_key=1237EkPTYWo4xcYTivpex1" target="_blank" title="FIIs em 31JAN2019" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/5.png?share_key=1237EkPTYWo4xcYTivpex1" alt="FIIs em 31JAN2019" style="max-width: 100%;width: 400px;"  width="400" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~ealexbarros/5/?share_key=1237EkPTYWo4xcYTivpex1" target="_blank" title="FIIs em 31JAN2019" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/5.png?share_key=1237EkPTYWo4xcYTivpex1" alt="FIIs em 31JAN2019" style="max-width: 70%;width: 300px;"  width="300" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="ealexbarros:5" sharekey-plotly="1237EkPTYWo4xcYTivpex1" src="https://plot.ly/embed.js" async></script>
 </div>
 
