@@ -15,7 +15,8 @@ categories:
 
 * ```Quantidade de FIIs em Carteira:``` 25!
 
-* ```Rendimento Médio Por mês:``` 0,71% livres de impostos.
+* ```Rendimento Médio Por mês:``` 0,7229% sobre o valor de mercado. (Não há incidência de IR)
+Ou seja, caso o valor de todas as cotas sejam 10mil, receberia de rendimentos o valor de R$72,29. ```Na poupança renderia somente R$ 37;```
 
 <div>
     <a href="https://plot.ly/~ealexbarros/1/?share_key=C2xWzpeukPxqW3Z5Uycxub" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~ealexbarros/1.png?share_key=C2xWzpeukPxqW3Z5Uycxub" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
