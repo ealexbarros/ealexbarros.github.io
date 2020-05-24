@@ -29,6 +29,8 @@ plugins:
   - jekyll-seo-tag
   - kramdown
   - rouge
+  -git
+  -github-pages
 
 exclude: 
   - Gemfile
@@ -76,3 +78,5 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+remote_theme: chrisrhymes/bulma-clean-theme 
