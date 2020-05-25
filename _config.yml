@@ -1,9 +1,9 @@
 # Site Settings
-title: Bulma Clean Theme
+title: Alex Barros
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: eng.alexbarros@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Site construído utilizando o tema Bulma Clean, feito em Jekyll e GitHub pages
 baseurl: "/"
 url: "https://www.csrhymes.com"
 permalink: pretty
