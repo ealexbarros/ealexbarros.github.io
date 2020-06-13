@@ -1,6 +1,6 @@
 ---
-title: Alex Barros
-subtitle: Seja bem-vindo à minha página pessoal
+title: Seja bem-vindo à minha página pessoal
+subtitle: Computação, dados e projetos
 layout: page
 callouts: home_callouts
 show_sidebar: true
