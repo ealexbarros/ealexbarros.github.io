@@ -1,7 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Another minimal style of Jekyll theme for writers.
+
+Doutorando em Computação Aplicada na UFPA.
+Analista Judiciário.
+Interesses em Data Science e fundos imobiliários.
